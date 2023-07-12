@@ -1,0 +1,17 @@
+{
+  "name": "self-hosted-gitlab-notion-integration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@notionhq/client": "^1.0.1",
+    "dotenv": "16.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yenilmezveysel@gmail.com",
+  "license": "ISC"
+}
